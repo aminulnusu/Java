@@ -26,7 +26,7 @@ public class JavaApplication6 {
         
         double rectangle;
         
-        rectangle = lengt * width;
+        rectangle = lengt + width;
         System.out.println(rectangle);
 
     }
