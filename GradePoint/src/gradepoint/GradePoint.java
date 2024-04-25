@@ -1,20 +1,37 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
 package gradepoint;
 
-/**
- *
- * @author Administrator
- */
+import java.util.Scanner;
+
 public class GradePoint {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-        // TODO code application logic here
+
+        Scanner input = new Scanner(System.in);
+
+        
+        System.out.println("Enter the number");
+        int marks = input.nextInt();
+String grade = "";
+        if (marks <= 32) {
+            grade = "F";
+        } else if (marks <= 39) {
+            grade = "D";
+        } else if (marks <= 49) {
+            grade = "C";
+        } else if (marks <= 59) {
+            grade = "B";
+        } else if (marks <= 69) {
+            grade = "A-";
+        } else if (marks <= 79) {
+            grade = "A";
+        } else if (marks <= 100) {
+            grade = "A+";
+        } else {
+            grade = "wrong numbers";
+        }
+
+        System.out.println("grade");
+
     }
-    
+
 }
