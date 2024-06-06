@@ -121,3 +121,15 @@ Add4/build.xml
 /BankManagement/build/
 /BankManagement/dist/
 /ProductManagement/dist/
+/VehicleManagemnt/nbproject/private/
+/VehicleManagemnt/build/
+/ multithread/nbproject/private/
+/TestAStatement/nbproject/private/
+/TestAStatement/build/
+/TestMySql/nbproject/private/
+/DBCrud59/nbproject/private/
+/DBCrud59/build/
+/ExcheptionHandeling/dist/
+/BdConnect/nbproject/private/
+/BdConnect/build/
+/BdConnect/dist/

@@ -15,7 +15,7 @@ public class ReadWrite2 {
         File file=new File("C:\\Users\\Administrator\\Desktop\\Aminul.txt");
         
         PrintWriter pw=new PrintWriter(file);
-        pw.write("this a boy");
+        pw.write("Wellcome to IsDB");
         pw.close();
         
         Scanner scanner=new Scanner(file);
