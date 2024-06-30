@@ -23,8 +23,8 @@ public class DBcrud {
         showData();
 
         deleteData(1);
-         System.out.println("\"\\n After Edit Data \\n\"");
-         showData();
+        System.out.println("\"\\n After Edit Data \\n\"");
+        showData();
     }
 
     public static void saveData(String name, String email, String cell) {

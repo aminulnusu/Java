@@ -141,9 +141,22 @@ Add4/build.xml
 /TsetJdcConnect/nbproject/private/
 /TsetJdcConnect/build/
 /TsetJdcConnect/dist/
+<<<<<<< HEAD
 /NetbeanX/nbproject/private/
 /XaamExam/nbproject/private/
 /XaamExam/build/
 /XaamExam/dist/
 /DBcrud/nbproject/private/
 /DBcrud/build/
+=======
+/Module 4 - Java/DBCrud2/nbproject/private/
+/Module 4 - Java/DBCrud2/build/
+>>>>>>> 80bd307fbadbf8e96654addc32275449d90e5ef7
+/DBcrud2/nbproject/private/
+/DBcrud2/build/
+/DBcrud2/dist/
+/DBnusu/nbproject/private/
+/IndexHtml/target/
+/IndexHtml2/nbproject/private/
+/IndexHtml2/build/
+/IndexHtml2/dist/
