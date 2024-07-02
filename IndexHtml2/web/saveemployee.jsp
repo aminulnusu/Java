@@ -1,1 +1,0 @@
-<jsp:useBeanbean class>
