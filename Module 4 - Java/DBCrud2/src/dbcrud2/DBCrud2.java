@@ -15,13 +15,13 @@ public class DBCrud2 {
 
     public static void main(String[] args) {
         
-//        saveData("Aminul", "aminul@gmail.com", "Dhanmondi", "123456789");
-//        System.out.println("After Insert Data \n");
-//        showData();
+        saveData("Aminul", "aminul@gmail.com", "Dhanmondi", "123456789");
+        System.out.println("After Insert Data \n");
+        showData();
 
-//        deleteData(1);
-//        System.out.println("\n After Delete Data \n");
-//        showData();
+        deleteData(1);
+        System.out.println("\n After Delete Data \n");
+        showData();
         
         editData("Aminul Nusu", "aminulnusu@gmail.com", "Dhanmondi", "987654321", 4);
         System.out.println("\n After Edit Data \n");
